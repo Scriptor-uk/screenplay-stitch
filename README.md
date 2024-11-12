@@ -2,6 +2,8 @@
 
 A simple Python utility that helps you create script-to-screen comparison videos by extracting and combining specific script pages into a single image.
 
+[Example Script to Screen Video](https://www.instagram.com/reel/DCRl_SnuhM3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
 ## Quick Start
 
 ### macOS
