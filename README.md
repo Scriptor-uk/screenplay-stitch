@@ -4,38 +4,6 @@ A simple Python utility that helps you create script-to-screen comparison videos
 
 [Example Script to Screen Video](https://www.instagram.com/reel/DCRl_SnuhM3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
-## Quick Start
-
-### macOS
-
-```bash
-# Install dependencies
-brew install poppler
-pip install PyPDF2 pdf2image Pillow
-
-# Run script
-python script_formatter.py
-```
-
-### Windows
-
-1. Install [poppler](http://blog.alivate.com.au/poppler-windows/)
-2. Add poppler's `bin` directory to PATH
-3. Run:
-
-```bash
-pip install PyPDF2 pdf2image Pillow
-python script_formatter.py
-```
-
-### Ubuntu/Debian
-
-```bash
-sudo apt-get install -y poppler-utils
-pip install PyPDF2 pdf2image Pillow
-python script_formatter.py
-```
-
 ## Usage
 
 1. Run the script
